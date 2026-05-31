@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedtringify",
+        "uuid": 1328968,
+        "checksum": "xjgu5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
